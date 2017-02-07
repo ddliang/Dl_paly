@@ -65,11 +65,11 @@
 	    <version>4.1.7.RELEASE</version>
 	</dependency>
 	 
-	<dependency>
+	<!-- <dependency>
 	    <groupId>org.springframework</groupId>
 	    <artifactId>spring-jdbc</artifactId>
 	    <version>4.1.7.RELEASE</version>
-	</dependency>
+	</dependency> -->
   </dependencies>
   <build>
     <finalName>git_play</finalName>
